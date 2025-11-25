@@ -1,15 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# 💻 Self-Introduction
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 🎓 Academic Background
+
+I am currently an undergraduate student in the **Department of Computer Science and Technology** at **Tsinghua University**, a member of the Class of 2023.
+
+As of the end of my sophomore year, my academic standing is **GPA 3.90** (ranked **23/171** in the cohort). Notably, **all core Computer Science courses and fundamental Mathematics/Science courses were completed with a 4.0**.
+
+Prior to this, I completed my high school education in Jinan, Shandong Province, where I achieved an outstanding score of **704** on the National College Entrance Examination (Gaokao), ranking among the **Top 10** students in the province.
+
+## 🔬 Research Experience
+
+During my undergraduate studies, I have been actively involved in research internships under the guidance of **Prof. Song-Hai Zhang**, **Prof. Xiao-Lin Hu**, and **Prof. Hao Zhao**.
+
+This experience has allowed me to accumulate **extensive research skills and practical experience**. I have also contributed to the publication of **multiple research papers**.
+
+
 
 A data-driven personal website
 ======
