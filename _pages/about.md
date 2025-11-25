@@ -33,31 +33,38 @@ Broadly speaking, my research centers on the **perception, understanding, and ge
 Specifically, I focus (or plan to focus) on the following areas:
 
 ### 1. 3D Vision
-* **3D Representation Learning:** Amidst the current fragmented landscape of 3D representations (e.g., Voxels, NeRF, Gaussian Splatting), I aim to explore and define a **unified 3D representation paradigm**.
-* **3D Scene Generation & Reconstruction:** Generating interactive and physically plausible 3D scenes.
+* **3D Representation Learning:** Considering the current fragmented landscape of 3D representations (e.g., Voxels, NeRF, Gaussian Splatting), I aim to explore and define a **unified 3D representation paradigm**.
+* **3D Scene Generation & Reconstruction:** Generating interactive and Physically Realistic 3D scenes.
 
 ### 2. Spatial Audio
-*(For a comprehensive overview, refer to the survey: [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924))*
+*(For a comprehensive overview of this field, refer to the survey: [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924))*
 
-* **Acoustic Field Reconstruction & Generation:** Inspired by works such as [NeRAF](https://amandinebtto.github.io/NeRAF/) and [AV-DAR](https://humathe.github.io/avdar/), I am developing a **feedforward Audio-Visual Gaussian Splatting (AV-GS) framework**. This approach supports multiple sound sources and generalizes across scenes without requiring per-scene optimization. (**Ongoing**)
-* **Unified Spatial Sound Generation:** Developing a unified framework capable of generating spatial audio from diverse inputs, including text, egocentric video, 360° video, and audio.
-* **Spatial Sound Perception & Reasoning:** Investigating how **Multimodal LLMs (MLLMs)** perform reasoning using spatial sound, and how Embodied AI frameworks (e.g., **Vision-Language-Action (VLA)** models) utilize spatial audio for decision-making.
+* **Acoustic Field Reconstruction & Generation:** Inspired by works such as [NeRAF](https://amandinebtto.github.io/NeRAF/) and [AV-DAR](https://humathe.github.io/avdar/), I plan to develop a **feedforward Audio-Visual Gaussian Splatting (AV-GS) framework**, which supports multiple sound sources and generalizes across scenes without requiring per-scene optimization. 
+* **Unified Spatial Audio Generation:** Developing a unified framework capable of generating spatial audio from diverse inputs, including text, egocentric video, 360° video, and audio.
+* **Spatial Audio Perception & Reasoning:** Investigating how **Multimodal LLMs (MLLMs)** perform reasoning using spatial audio, and how Embodied AI frameworks (e.g., **Vision-Language-Action (VLA)** models) utilize spatial audio for decision-making.
 
 ### 3. Multimodal Large Language Models (MLLM)
-* **Robustness in Audiovisual Contexts:** Benchmarking and enhancing MLLM performance under challenging conditions, such as noisy environments, multi-speaker audio, or extremely low-quality visual inputs. (**Ongoing**)
+* **Robustness in Audiovisual Contexts:** Benchmarking and enhancing MLLM robustness under challenging conditions, such as noisy environments, multi-speaker audio, or extremely low-quality visual inputs.
 * **Enhancing Spatial Intelligence:** Improving performance on downstream spatial tasks, including but not limited to:
     * **Vision-and-Language Navigation (VLN)**
     * **3D Object Detection & Grounding**
     * **Spatial Question Answering (Spatial QA)**
-* **MLLM Paradigm Research:** Critically examining current multimodal alignment paradigms (e.g., designing specific discrete tokenizers or continuous encoders for each modality). I aim to investigate whether this is the path to true multimodal intelligence or merely an expedient, short-sighted solution for simplicity.
+* **MLLM Paradigm Research:** Critically examining current multimodal alignment paradigms (e.g., designing specific discrete tokenizers or continuous encoders for each modality)， I aim to investigate whether this is the path to true multimodal intelligence or merely an expedient, short-sighted solution for simplicity.
 
 
 ## 📚 Publications / Works
 
-* **[论文标题 1]** (Authors: [Your Name], Prof. Zhang, et al.). *[Conference/Journal Name], Year.* [Optional Link]
-* **[论文标题 2]** (Authors: Prof. Hu, [Your Name], et al.). *[Conference/Journal Name], Year.* [Optional Link]
-* **[论文标题 3]** (Authors: [Your Name], Prof. Zhao, et al.). *[Conference/Journal Name], Year.* [Optional Link]
-* **[项目/预印本]** [Project Name/Preprint Title]. [Link to GitHub/arXiv]
+* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.* [Link](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
+  > **Highlights:** 提出了一种基于 LLM 的叙事场景布局 (Layout) 优化策略。获 Chinagraph 最佳论文奖，CNKI 下载量 300+。
+
+* **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).*
+  > **Highlights:** 设计了基于检测分割模型输出计算的 MaskXY 导数，提出了一种用于目标视角导航 (Navigation) 的可微渲染框架。
+
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026 (Rebuttal Scores: 6/6/6/4).* [Project Page](https://cslikai.cn/Dolphin)
+  > **Highlights:** 提出基于“语义-重建”双路视觉编码框架的轻量化多模态语音分离模型。在所有数据集指标上超越 SOTA，参数量减少 **>50%**，MACs 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159 stars)。
+
+* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation** (Authors: Junhao Chen*, \textbf{Kejun Gao}, et al.). *Under Review at CVPR 2026.*
+  > **Highlights:** 首个基于 Lottie 数据格式的矢量动画生成框架。在 SVG 单图生成上超越 OmniSVG 等 SOTA，在矢量视频生成上效果优于 Sora2、Kling 等闭源模型。
 
 
 ## 🏆 Awards
