@@ -65,12 +65,12 @@ Specifically, I focus (or plan to focus) on the following areas:
     * **Highlights:** Designed MaskXY derivatives based on detection/segmentation outputs and proposed a differentiable rendering framework for target view navigation.
 
 * **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** [Project Page](https://cslikai.cn/Dolphin)
-    * **Authors:** Kai Li*, **Kejun Gao***, et al.
+    * **Authors:** Kai Li\*, **Kejun Gao**\*, et al.
     * **Venue:** Under Review at ICLR 2026 (Rebuttal Scores: 6/6/6/4).
     * **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
 
 * **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
-    * **Authors:** Junhao Chen*, **Kejun Gao***, et al.
+    * **Authors:** Junhao Chen\*, **Kejun Gao**\*, et al.
     * **Venue:** Under Review at CVPR 2026.
     * **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation.
 
