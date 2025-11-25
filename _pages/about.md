@@ -55,16 +55,16 @@ Specifically, I focus (or plan to focus) on the following areas:
 ## 📚 Publications / Works
 
 * **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.* [Link](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
-  > **Highlights:** 提出了一种基于 LLM 的叙事场景布局 (Layout) 优化策略。获 Chinagraph 最佳论文奖，CNKI 下载量 300+。
+  > **Highlights:** Proposed an LLM-based optimization strategy for narrative scene layout. Won the **Best Paper Award** at Chinagraph 2024.
 
 * **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).*
-  > **Highlights:** 设计了基于检测分割模型输出计算的 MaskXY 导数，提出了一种用于目标视角导航 (Navigation) 的可微渲染框架。
+  > **Highlights:** Designed MaskXY derivatives based on detection/segmentation outputs and proposed a differentiable rendering framework for target view navigation.
 
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026 (Scores befor Rebuttal: 6/6/6/4).* [Project Page](https://cslikai.cn/Dolphin)
-  > **Highlights:** 提出基于“语义-重建”双路视觉编码框架的轻量化多模态语音分离模型。在所有数据集指标上超越 SOTA，参数量减少 **>50%**，MACs 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159 stars)。
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026.(scores before rebuttal: 6,6,6,4)* [Project Page](https://cslikai.cn/Dolphin)
+  > **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
 
 * **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation** (Authors: Junhao Chen*, \textbf{Kejun Gao}, et al.). *Under Review at CVPR 2026.*
-  > **Highlights:** 首个基于 Lottie 数据格式的矢量动画生成框架。在 SVG 单图生成上超越 OmniSVG 等 SOTA，在矢量视频生成上效果优于 Sora2、Kling 等闭源模型。
+  > **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation.
 
 
 ## 🏆 Awards
