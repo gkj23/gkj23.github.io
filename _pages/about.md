@@ -54,17 +54,25 @@ Specifically, I focus (or plan to focus) on the following areas:
 
 ## 📚 Publications / Works
 
-* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.* [Link](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
-  > **Highlights:** Proposed an LLM-based optimization strategy for narrative scene layout. Won the **Best Paper Award** at Chinagraph 2024.
+* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** [Link](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
+    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.
+    * **Venue:** Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.
+    * **Highlights:** Proposed an LLM-based optimization strategy for narrative scene layout. Won the **Best Paper Award** at Chinagraph 2024.
 
-* **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).*
-  > **Highlights:** Designed MaskXY derivatives based on detection/segmentation outputs and proposed a differentiable rendering framework for target view navigation.
+* **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives**
+    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.
+    * **Venue:** Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).
+    * **Highlights:** Designed MaskXY derivatives based on detection/segmentation outputs and proposed a differentiable rendering framework for target view navigation.
 
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026.(scores before rebuttal: 6,6,6,4)* [Project Page](https://cslikai.cn/Dolphin)
-  > **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** [Project Page](https://cslikai.cn/Dolphin)
+    * **Authors:** Kai Li*, **Kejun Gao***, et al.
+    * **Venue:** Under Review at ICLR 2026 (Rebuttal Scores: 6/6/6/4).
+    * **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
 
-* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation** (Authors: Junhao Chen*, \textbf{Kejun Gao}, et al.). *Under Review at CVPR 2026.*
-  > **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation.
+* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
+    * **Authors:** Junhao Chen*, **Kejun Gao***, et al.
+    * **Venue:** Under Review at CVPR 2026.
+    * **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation.
 
 
 ## 🏆 Awards
