@@ -60,7 +60,7 @@ Specifically, I focus (or plan to focus) on the following areas:
 * **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives** (Authors: Hanxi Zhu, \textbf{Kejun Gao}, et al.). *Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).*
   > **Highlights:** 设计了基于检测分割模型输出计算的 MaskXY 导数，提出了一种用于目标视角导航 (Navigation) 的可微渲染框架。
 
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026 (Rebuttal Scores: 6/6/6/4).* [Project Page](https://cslikai.cn/Dolphin)
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** (Authors: Kai Li*, \textbf{Kejun Gao}, et al.). *Under Review at ICLR 2026 (Scores befor Rebuttal: 6/6/6/4).* [Project Page](https://cslikai.cn/Dolphin)
   > **Highlights:** 提出基于“语义-重建”双路视觉编码框架的轻量化多模态语音分离模型。在所有数据集指标上超越 SOTA，参数量减少 **>50%**，MACs 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159 stars)。
 
 * **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation** (Authors: Junhao Chen*, \textbf{Kejun Gao}, et al.). *Under Review at CVPR 2026.*
