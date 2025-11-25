@@ -54,7 +54,7 @@ Specifically, I focus (or plan to focus) on the following areas:
 
 ## 📚 Publications / Works
 
-* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** [Link](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
+* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** [Project Page](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
     * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.
     * **Venue:** Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.
     * **Highlights:** Proposed an LLM-based optimization strategy for narrative scene layout. Won the **Best Paper Award** at Chinagraph 2024.
@@ -66,7 +66,7 @@ Specifically, I focus (or plan to focus) on the following areas:
 
 * **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** [Project Page](https://cslikai.cn/Dolphin)
     * **Authors:** Kai Li\*, **Kejun Gao**\*, et al.
-    * **Venue:** Under Review at ICLR 2026 (Rebuttal Scores: 6/6/6/4).
+    * **Venue:** Under Review at ICLR 2026 (Scores Before Rebuttal: 6/6/6/4).
     * **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
 
 * **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
