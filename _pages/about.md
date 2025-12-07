@@ -74,48 +74,27 @@ Specifically, I focus (or plan to focus) on the following areas:
     * **Venue:** Under Review at CVPR 2026.
     * **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation. -->
 
-\section{论文发表 (Publications)}
-\begin{itemize}[leftmargin=0.15in, label={}]
+## 📝 论文发表 (Publications)
 
-    % --- Paper 1: Audio-Visual ---
-    \item \textbf{Efficient Audio-Visual Speech Separation with Discrete Lip Semantics} \\
-    \small Kai Li*, \textbf{Kejun Gao*}, et al. （申请人：共同一作）\\
-    \textit{投稿至 ICLR 2026 审稿中 (当前评分: 6/6/6/4，位于所有在投论文的10%左右，往年中稿率约30%)}
-    \vspace{-3pt}
-    \begin{itemize}[leftmargin=0.2in]
-        \item 提出了一种基于“语义-重建”双路径视觉编码框架的轻量级多模态语音分离模型。
-        \item 性能指标全面超越 SOTA：参数量减少 \textbf{>50\%}，计算量(MACs)降低 \textbf{>2.4$\times$}，推理速度提升 \textbf{>6$\times$} (GitHub 159+ stars)。
-    \end{itemize}
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics** [[Project Page](https://cslikai.cn/Dolphin)]
+    * **Authors:** Kai Li\*, **Kejun Gao\***, et al.  （申请人：共同一作）
+    * **Venue:** 投稿至 ICLR 2026 审稿中 (当前评分: 6/6/6/4，位列所有在投论文约10%，往年会议中稿率约30%)
+    * **Highlights:** 提出了一种基于“语义-重建”双路径视觉编码框架的轻量级多模态语音分离模型。性能指标全面超越 SOTA：参数量减少 **>50%**，计算量 (MACs) 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159+ stars)。
 
-    % --- Paper 2: LottieGPT ---
-    \item \textbf{LottieGPT: Tokenizing Vector Animation for Autoregressive Generation} \\
-    \small Junhao Chen*, \textbf{Kejun Gao*}, et al. （申请人：共同一作）\\
-    \textit{投稿至 CVPR 2026 审稿中}
-    \vspace{-3pt}
-    \begin{itemize}[leftmargin=0.2in]
-        \item 构建了首个基于 Lottie 矢量动画格式的自回归生成框架。
-        \item 在单帧 SVG 生成任务上优于现有 SOTA 方法 (如 OmniSVG)，在矢量视频生成上超越了现有闭源模型 (如 Sora2, Kling)。
-    \end{itemize}
+* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
+    * **Authors:** Junhao Chen\*, **Kejun Gao\***, et al.   （申请人：共同一作）
+    * **Venue:** 投稿至 CVPR 2026 审稿中
+    * **Highlights:** 构建了首个基于 Lottie 矢量动画格式的自回归生成框架。在单帧 SVG 生成任务上优于现有 SOTA 方法 (如 OmniSVG)，在矢量视频生成上超越了现有闭源模型 (如 Sora2, Kling)。
 
-    % --- Paper 3: ViewSeeker ---
-    \item \textbf{ViewSeeker: Locating Camera via Monocular RGB Image} \\
-    \small Hanxi Zhu, \textbf{Kejun Gao}, et al. （申请人：二作）\\
-    \textit{投稿至 IEEE TVCG (CCF-A类期刊) 审稿中}
-    \vspace{-3pt}
-    \begin{itemize}[leftmargin=0.2in]
-        \item 设计了基于检测/分割输出的 MaskXY 导数，并提出了一种用于目标视角导航的可微渲染框架。
-    \end{itemize}
+* **ViewSeeker: Locating Camera via Monocular RGB Image**
+    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.   （申请人：二作）
+    * **Venue:** 投稿至 IEEE TVCG (CCF-A类期刊) 审稿中
+    * **Highlights:** 设计了基于检测/分割输出的 MaskXY 导数，并提出了一种用于目标视角导航的可微渲染框架。
 
-    % --- Paper 4: Narrative Workshop ---
-    \item \textbf{《叙事工坊：交互式叙事场景构建》 (Narrative Workshop)} \\
-    \small Hanxi Zhu, \textbf{Kejun Gao}, et al. （申请人：二作）\\
-    \textit{Chinagraph 2024 \textbf{最佳论文奖}；已投稿至《计算机学报》（CCF-A类中文期刊）}
-    \vspace{-3pt}
-    \begin{itemize}[leftmargin=0.2in]
-        \item 提出了一种基于大语言模型 (LLM) 的叙事场景布局优化策略。
-    \end{itemize}
-
-\end{itemize}
+* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop)** [[Project Page](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)]
+    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.   （申请人：二作）
+    * **Venue:** Chinagraph 2024 **最佳论文奖**；已中稿《计算机学报》（CCF-A类中文期刊）
+    * **Highlights:** 提出了一种基于大语言模型 (LLM) 的叙事场景布局优化策略。
 
 ## 🏆 Awards
 
