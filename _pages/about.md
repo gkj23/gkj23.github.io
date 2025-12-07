@@ -76,8 +76,9 @@ Specifically, I focus (or plan to focus) on the following areas:
 
 ## 📝 论文发表 (Publications)
 
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics** [[Project Page](https://cslikai.cn/Dolphin)]
+* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics** 
     * **Authors:** Kai Li\*, **Kejun Gao\***, et al.  （申请人：共同一作）
+    * **Project Page** https://dolphin-avss.github.io/Dolphin/
     * **Venue:** 投稿至 ICLR 2026 审稿中 (当前评分: 6/6/6/4，位列所有在投论文约10%，往年会议中稿率约30%)
     * **Highlights:** 提出了一种基于“语义-重建”双路径视觉编码框架的轻量级多模态语音分离模型。性能指标全面超越 SOTA：参数量减少 **>50%**，计算量 (MACs) 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159+ stars)。
 
@@ -91,9 +92,9 @@ Specifically, I focus (or plan to focus) on the following areas:
     * **Venue:** 投稿至 IEEE TVCG (CCF-A类期刊) 审稿中
     * **Highlights:** 设计了基于检测/分割输出的 MaskXY 导数，并提出了一种用于目标视角导航的可微渲染框架。
 
-* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop)** [[Project Page](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)]
+* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop)** 
     * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.   （申请人：二作）
-    * **Venue:** Chinagraph 2024 **最佳论文奖**；已中稿《计算机学报》（CCF-A类中文期刊）
+    * **Venue:** Chinagraph 2024 **最佳论文奖**；已中稿《计算机学报》（CCF-A类中文期刊）, 中国知网下载量309
     * **Highlights:** 提出了一种基于大语言模型 (LLM) 的叙事场景布局优化策略。
 
 ## 🏆 Awards
